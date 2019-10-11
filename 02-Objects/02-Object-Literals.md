@@ -1,4 +1,5 @@
 # Object Literals
+
 ```javascript
 const circle = {
     radius: 1,
@@ -18,13 +19,15 @@ circle.draw(); // draw
  *    - radius
  *    - location
  *    - draw()
- * 
+ *
 ```
+
 ---
 
-#### Class: circle
-- properties: used to hold value 
+## Class: circle
+
+- properties (variables) : used to hold value
   - radius
   - location
-- method: used to define some logic
+- method (function) : used to define some logic
   - draw()
