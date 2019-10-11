@@ -12,5 +12,7 @@ function createCircle(radius) {
 }
 
 const circle = createCircle(1);
-console.log(circle);
+console.log(circle); // { radius: 1, draw: [Function: draw] }
+
+circle.draw(); // draw
 ```
