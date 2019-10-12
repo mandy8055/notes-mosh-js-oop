@@ -3,23 +3,23 @@
 ## Adding
 
 ```js
-funciton Circle(radius) {
-    this.radios = radius;
-    this.draw = function() {
-        console.log('draw');
-    }
+function Circle(radius) {
+  this.radius = radius;
+  this.draw = function() {
+    console.log('draw');
+  };
 }
 
 const circle = new Circle(10);
 
-circle.location = { x: 1};
+circle.location = { x: 1 };
 
 const propertyName = 'center-location';
 const propertyName = 'center location';
 //circle.center-location;
 //circle.center location;
 
-circle[propertyName] = { x: 1}
+circle[propertyName] = { x: 1 };
 ```
 
 ## Removing
