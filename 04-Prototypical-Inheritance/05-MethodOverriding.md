@@ -21,5 +21,5 @@ Circle.prototype.duplicate = function() {
   console.log('duplicate circle');
 };
 
-const c = new Circle(1, 'red');
+const c = new Circle();
 ```
