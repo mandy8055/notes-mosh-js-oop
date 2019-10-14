@@ -35,7 +35,7 @@ c.draw();
 ## circle.js
 
 ```js
-onst _radius = new WeakMap();
+const _radius = new WeakMap();
 
 export class Circle {
   constructor(radius) {
@@ -46,6 +46,4 @@ export class Circle {
     console.log('Circle with radius ' + _radius.get(this));
   }
 }
-
-
 ```
