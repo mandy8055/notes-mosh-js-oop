@@ -30,7 +30,7 @@ const another = new Circle(1);
 ```js
 /*
 
-// Using Buil-in constructor in JavaScript
+// Using Built-in constructor in JavaScript
 
 ƒ Object() { [native code] }
 
@@ -69,4 +69,4 @@ new Number(); // 1, 2, 3  ...    Number literals
 ```
 
 ## Takeaway point
-- Every object has a constructor property which references the function that was used to create the object.
+- Every object has a constructor property that references the function used to create the object.
