@@ -30,6 +30,7 @@ circle[propertyName] = { x: 1 }; // example for point 1
 
 ```js
 
-delete circle['location]';
-
+delete circle['location'];
+        // OR
+delete circle.location;
 ```
