@@ -1,6 +1,6 @@
 # Adding or Removing Properties
 
-## Cases where bracket notations can be used instead of dot notation
+## Cases where bracket notations are used instead of dot notation
 - `propertyName` is dynamic i.e. not known in advance and we need to set the value of that property. See **example for point 1**.
 - `propertyName` is an invalid identifier. See **example for point 2**.
 
