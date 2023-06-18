@@ -67,3 +67,6 @@ new String(); // '', "", ``      String literls
 new Boolean(); // true, false     Boolean literals
 new Number(); // 1, 2, 3  ...    Number literals
 ```
+
+## Takeaway point
+- Every object has a constructor property which references the function that was used to create the object.
