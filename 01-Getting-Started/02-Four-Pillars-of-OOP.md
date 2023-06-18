@@ -2,7 +2,7 @@
 
 #### Encapsulation
 
-- Property + Method (or variable + function)
+- Grouping similar Property + Method (or variable + function)
 
 ```javascript
 // version 1
