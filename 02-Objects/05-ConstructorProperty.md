@@ -69,4 +69,4 @@ new Number(); // 1, 2, 3  ...    Number literals
 ```
 
 ## Takeaway point
-- Every object has a constructor property that references the function used to create the object.
+- Every object has a constructor property that references the function which was used to create that object.
