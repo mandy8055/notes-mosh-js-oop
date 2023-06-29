@@ -5,6 +5,6 @@
   - Circle (Derived/Sub/Child)
   - Square
 
-- IS-A relationship
+- IS-A relationship (for example: Circle IS-A Shape, Square IS-A Shape)
 
 - Classical vs Prototypical inheritance
