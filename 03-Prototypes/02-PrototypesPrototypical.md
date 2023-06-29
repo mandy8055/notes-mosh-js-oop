@@ -57,3 +57,7 @@ x.toString();
 > a prototype is just a regular object
 
 > Every object has a prototype or a parent, except the root object
+
+> How Prototypical inheritance works?
+
+   > If we access a property of an object Javascript engine first looks for that property within that object. If it doesn't find that property it then looks it in it's parent and so on till the root i.e. `__proto__` .
