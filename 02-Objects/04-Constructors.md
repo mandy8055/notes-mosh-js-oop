@@ -50,5 +50,5 @@ const another = new Circle(1);
 ## new keyword
 
 1. create an empty object `{}`
-2. set `this` point to that object
-3. return that object from the function `Circle()`
+2. set `this` to point to that newly created object.
+3. return that object from the constructor i.e. function `Circle()`
